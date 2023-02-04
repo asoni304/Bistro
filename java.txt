@@ -1,0 +1,45 @@
+----------------VELINDISHES RECEIPT---------------------------------------------------------------------------
+Paid via: MPESA
+order no.: 254
+Customer: asoni
+Quantity: 3
+Maindish price: 200
+Sidedish price: 300
+Drinkprice: 0
+Total Amount: 1500
+ENJOY YOUR MEAL!
+WELCOME BACK AGAIN
+Take Plain rice and Fish----------------VELINDISHES RECEIPT---------------------------------------------------------------------------
+Paid via: MPESA
+order no.: 
+Customer: 
+Quantity: 
+Maindish price: 200
+Sidedish price: 250
+Drinkprice: 0
+Total Amount: 
+ENJOY YOUR MEAL!
+WELCOME BACK AGAIN
+Take Plain rice and Chicken ----------------VELINDISHES RECEIPT---------------------------------------------------------------------------
+Paid via: MPESA
+order no.: 34567
+Customer: fred
+Quantity: 4
+Maindish price: 300
+Sidedish price: 250
+Drinkprice: 280
+Total Amount: 3320
+ENJOY YOUR MEAL!
+WELCOME BACK AGAIN
+Take pilau and minutemaid and Chicken ----------------VELINDISHES RECEIPT---------------------------------------------------------------------------
+Paid via: MPESA
+order no.: 1
+Customer: lionel messi
+Quantity: 2
+Maindish price: 200
+Sidedish price: 250
+Drinkprice: 280
+Total Amount: 1460
+ENJOY YOUR MEAL!
+WELCOME BACK AGAIN
+Take Plain rice and Delmonte and Chicken 
